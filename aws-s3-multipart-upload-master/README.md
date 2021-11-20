@@ -22,6 +22,3 @@ cd backend/<br>
   **npm run install**<br>
   **npm run start**<br>
 
-
-If you are intrested in code walk through you can go thorugh youtube link, here I have explain how this works. 
-https://www.youtube.com/watch?v=42Fq6aJvX0w
